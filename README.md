@@ -1,0 +1,2 @@
+# BDBI-analysis
+personal study
